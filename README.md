@@ -7,22 +7,62 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``, ``Confluence``,``SQL``,`` Postman``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Git``, ``Chrome DevTools``.
+``Jira``,``qase.io``, ``Confluence``, ``Miro``, ``Ситечко``, ``SQL``, `` Postman``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Chrome DevTools``,``Mockoon``, ``B1`` (``английский язык``)
 
 
 
 
 ## Проекты
 
-<p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
+<p> Проект 1: тестирование Личного кабинета учителя - вкладка “Расписание “ - личные события на платформе Skypro. <br>
+
+  Основные требования (главная user - story): преподаватель использует в “Расписании”новый элемент “личные события”, чтобы видеть помимо уроков с учениками ещё и свои дополнительные дела. </p>
 <p>Что нужно было сделать:<p>
 <ol>
-  <li>Задача №1</li>
-  <li>Задача №2.</li>
+  <li> Тестирование требований </li>
+  <li> Smoke - тестирование </li>
+  <li> Функциональное тестирование </li>
+  <li> Регрессионное тестирование </li>
+  <li> Приёмочное тестирование </li>
+  <li> Тестирование API </li>  
 </ol>
 
-<p>Как решала(-а): краткое описание решения (автореферат)<p>
+
+
+<p>Как решала(-а):<p>
+
+<ol>
+<li> Декомпозиция системы была выполнена в Miro : </li>
+  
+![Decomposition_Miro_Personal events](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Decomposition_Miro_Personal%20events.jpg)
+
+
+<li> Чек - листы функционального тестирования выполнены на сайте [Sitechko](https://sitechco.ru/)  : </li>
+
+
+![Check list_Sitechko_1part](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Check%20list_Sitechko_1part.jpg)
+![Check list_Sitechko_2part](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Check%20list_Sitechko_2part.jpg)
+
+
+<li> Тестирование требований было проведено на соответствие/несоответствие критериям: завершённость,  атомарность, нужность, однозначность, 
+  недвусмысленность, непротиворечивость. </li>
+  
+
+<li>  </li>
+
+
+
+
+</ol>
+
+
+
+
+
+
+
+
 
 > <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
