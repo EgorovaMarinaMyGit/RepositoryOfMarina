@@ -13,10 +13,11 @@
 
 
 
-## Проект: тестирование Личного кабинета учителя - вкладка “Расписание “ - личные события на платформе Skypro
+### Проект: тестирование Личного кабинета учителя - вкладка “Расписание “ - личные события на платформе Skypro
 
 <p> Основные требования (главная user - story): преподаватель использует в “Расписании”новый элемент “личные события”, чтобы видеть помимо уроков с учениками ещё и свои дополнительные дела. </p>
-<p>Что нужно было сделать:<p>
+
+#### Что нужно было сделать:
 <ol>
   <li> Тестирование требований </li>
   <li> Smoke - тестирование </li>
@@ -27,27 +28,19 @@
    
 </ol>
 
-
-
-<p>Как решала(-а):<p>
+#### Как решала:
 
 <ol>
-<li> Декомпозиция системы была выполнена в Miro : </li>
+<li> Декомпозиция системы была выполнена в Miro: </li>
   
 ![Decomposition_Miro_Personal events](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Decomposition_Miro_Personal%20events.jpg)
 
 <li> Тестирование требований было проведено на соответствие/несоответствие критериям: завершённость,  атомарность, нужность, однозначность, 
   недвусмысленность, непротиворечивость. </li>
 
-<li> Чек - листы функционального тестирования выполнены на сайте [Sitechko](https://sitechco.ru/). там  же был проведен  test - run: </li>
-https://drive.google.com/file/d/1b79lhRL7FG5D0uQN_XPremmMolF9EE5_/view
-
-![Check list_Sitechko_1part](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Check%20list_Sitechko_1part.jpg)
-![Check list_Sitechko_2part](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Check%20list_Sitechko_2part.jpg)
-
-
-
-
+<li> Чек - листы функционального тестирования выполнены на сайте [Sitechko](https://sitechco.ru/). 
+  Там  же был проведен  test - run. </li>
+Ссылка на Отчёт по тестированию по расширенному чек - листу (функциональное тестирование): https://drive.google.com/file/d/1b79lhRL7FG5D0uQN_XPremmMolF9EE5_/view
 
   
 <li> Тест - кейсы составляла в Qase.io, там же проводила test - run. Ниже пример test - run'а для приёмочного, smoke - тестирования и тестирования API: </li>
@@ -61,6 +54,8 @@ https://drive.google.com/file/d/1b79lhRL7FG5D0uQN_XPremmMolF9EE5_/view
 
 ![ICollection_Postman_REST API](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Collection_Postman_REST%20API.jpg)
 
+
+<li> Для тестирования API в Postman была создана коллекция: </li>
 
 
 <li> Обнаруженные баги были оформлены в JIRA: </li>
