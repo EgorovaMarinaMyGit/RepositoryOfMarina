@@ -40,9 +40,7 @@
   недвусмысленность, непротиворечивость. </li>
 
 <li> Чек - листы функционального тестирования выполнены на сайте [Sitechko](https://sitechco.ru/). там  же был проведен  test - run: </li>
-
-<a href="https://drive.google.com/file/d/1b79lhRL7FG5D0uQN_XPremmMolF9EE5_/view </a>
-
+https://drive.google.com/file/d/1b79lhRL7FG5D0uQN_XPremmMolF9EE5_/view
 
 ![Check list_Sitechko_1part](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Check%20list_Sitechko_1part.jpg)
 ![Check list_Sitechko_2part](https://github.com/EgorovaMarinaMyGit/RepositoryOfMarina/blob/main/Check%20list_Sitechko_2part.jpg)
