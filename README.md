@@ -87,5 +87,4 @@ Windows10, Microsoft Edge 111.0.1661.62, Postman for Windows Version 10.15.5
 
 ### Контактная информация
 - Email: mariupolzhe@gmail.com
-- LinkedIn: https://www.linkedin.com/in/username/
 - Telegram: @Marina_neMasha
